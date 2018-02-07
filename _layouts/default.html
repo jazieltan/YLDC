@@ -2,27 +2,25 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{"/css/foundation.min.css" | relative_url}}">
     <link rel="stylesheet" type="text/css" href="{{"/css/main.css" | relative_url}}">
   </head>
-
-
   <body>
-    <nav>
-    <ul>
-    <li><a href="{{site.baseurl }}">Home</a></li>
-    <li><a href="{{site.baseurl }}/english">English</a></li>
-    <li><a href="{{site.baseurl }}/cs">Computer studies</a></li>
-    </ul>
-    </nav>
 <div class="container">
-
+  <nav>
+    <div class="row">
+      <ul>
+        <li><a href="{{site.baseurl }}">Home</a></li>
+        <li><a href="{{site.baseurl }}/english">English</a></li>
+        <li><a href="{{site.baseurl }}/cs">Computer studies</a></li>
+        <li><a href="https://www.facebook.com/groups/316580378840443/">Facebook</a></li>
+      </ul>
+    </div>
+  </nav>
   {{ content }}
-
 </div>
 
   <footer>
-   <ul>
-   </ul>
   </footer>
   </body>
 
