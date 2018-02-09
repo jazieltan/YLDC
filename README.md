@@ -1,5 +1,10 @@
-hankquinlan.github.io
+YLDC Learning Portal.
 =====================
-This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
 
-Users are free to copy and re-use any and all of the code contained here without contacting me.
+this portal was created using [jekyll](https://jekyllrb.com/). 
+
+ - Sign up for a github account to get started.  
+ - Send in a request to be a contributor to this repository.  
+ - Upload your links as Markdown or HTML files. Markdown files are prefered and alot easier to work with. 
+ - You can use a Markdown visual editor [here](https://stackedit.io/)
+ - Submit and push your files up. You will see the files uploaded instantly. 
