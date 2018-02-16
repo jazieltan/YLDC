@@ -22,4 +22,12 @@ title: "put your title here"
 category: english/computer studies
 date: year-month-date
 ---
+
+Here's an Example 
+---
+layout: post
+title: "Download the learning materials"
+category: english
+date: 2018-02-02
+---
 ~~~~
