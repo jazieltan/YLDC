@@ -2,6 +2,6 @@ name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url:  https://jazieltan.github.io
-baseurl: /yldc
+baseurl: /yldc/
 sass:
     style: compressed

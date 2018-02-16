@@ -1,21 +1,27 @@
 ---
 ---
-
+$light-blue: #1aa8ce;
 $fonts: 'Helvetica', 'Arial', 'Sans-Serif';
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-
+.meta {font-size: .9rem}
 h1, h2, h3, h4 {
   font-family: $fonts;
   font-weight: bold;
+  color: $light-blue;
+}
+.row{
+  margin-bottom: 20px;
 }
 h1 { font-size: 3em;  }
-h2 { font-size: 2.7em; }
-h3 { font-size: 2.3em; }
-h4 { font-size: 1.9em; }
-
+h2 { font-size: 2.6em; }
+h3 { font-size: 2em; }
+h4 { font-size: 1.6em; }
+.logo{
+  max-width: 200px;
+}
 nav ul, footer ul {
   font-size: 1em;
   font-family: $fonts;
@@ -23,8 +29,9 @@ nav ul, footer ul {
   list-style: none;
   font-weight: bold;
   margin: 0;
+  float: right;
 }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
+nav ul li, footer ul li { display: inline; margin-right: 20px;}
 
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }

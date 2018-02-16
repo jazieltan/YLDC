@@ -9,10 +9,11 @@
 <div class="container">
   <nav>
     <div class="row">
-      <ul>
+      <img class="column large-2 logo" src="{{site.baseurl}}img/logo.jpg" alt="YLDC Logo">
+      <ul class="column large-10 menu">
         <li><a href="{{site.baseurl }}">Home</a></li>
-        <li><a href="{{site.baseurl }}/english">English</a></li>
-        <li><a href="{{site.baseurl }}/cs">Computer studies</a></li>
+        <li><a href="{{site.baseurl }}category/en.html">English</a></li>
+        <li><a href="{{site.baseurl }}category/cs.html">Computer studies</a></li>
         <li><a href="https://www.facebook.com/groups/316580378840443/">Facebook</a></li>
       </ul>
     </div>
@@ -22,6 +23,9 @@
 
   <footer>
   </footer>
+  <script src="{{"/js/jquery.js" | relative_url}}"></script>
+  <script src="{{"/js/what-input.js" | relative_url}}"></script>
+  <script src="{{"/js/foundation.min.js" | relative_url}}"></script>
   </body>
 
 </html>
