@@ -11,16 +11,15 @@ this portal was created using [jekyll](https://jekyllrb.com/).  Jekyll is a stat
 
 # Adding a new post
 
- * simply go to the '_post' folder and create a new .md (markdown file)
- * Each .md file is a blog post of its own. you caan put in the content you want in there.
+* simply go to the '_post' folder and create a new .md (markdown file)
+* Each .md file is a blog post of its own. you caan put in the content you want in there.
 * Every post is required to have the following in the beginign of the layout. these are called "FrontMatter". Front matter are basically things that dictate the chracteristics and behaviour of the blog post.
 
+~~~~
 ---
 layout: post
-
-title: "Download the learning materials"
-
-category: english
-
-date: 2018-02-02
+title: "put your title here"
+category: english/computer studies
+date: year-month-date
 ---
+~~~~
