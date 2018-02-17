@@ -2,9 +2,10 @@
 layout: default
 category: English
 ---
-<div class="row">
-  <p class="meta">{{ page.date | date_to_string }}</p>
+<div class="row column">
+  <span class="meta">{{ page.date | date_to_string }}</span><br>
   <h1 class="">{{ page.title }}</h1>
+  <hr>
   <div class="post">
     {{ content }}
   </div>

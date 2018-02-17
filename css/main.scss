@@ -21,10 +21,10 @@ h1, h2, h3, h4 {
 .row{
   margin-bottom: 20px;
 }
-h1 { font-size: 3rem;  }
-h2 { font-size: 2.6rem; }
-h3 { font-size: 2rem; }
-h4 { font-size: 1.6rem; }
+h1 { font-size: 2.6rem; }
+h2 { font-size: 2rem; color: $blue }
+h3 { font-size: 1.6rem; color: #999}
+h4 { font-size: 1.2rem; }
 .logo{
   max-width: 200px;
 }
