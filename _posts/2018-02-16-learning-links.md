@@ -3,6 +3,8 @@ layout: post
 title: "The Ultimate Resource List"
 category: computer studies
 date: 2018-02-16
+author: YLDC
+
 ---
 
 ### [Learn Microsoft Word Online](https://www.gcflearnfree.org/word2016/)

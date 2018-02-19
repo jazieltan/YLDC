@@ -2,7 +2,9 @@
 layout: post
 title: "Some testing Post"
 date: 2018-02-02
+author: YLDC
+
 ---
 
-Here's a sample of a blog post. 
+Here's a sample of a blog post.
 This si the [page.title]

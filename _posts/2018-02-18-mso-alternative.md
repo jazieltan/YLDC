@@ -3,6 +3,8 @@ layout: post
 title: "Alternatives to Microsoft Office"
 category: computer studies
 date: 2018-02-02
+author: YLDC
+
 ---
 
 MS Office apps like Word, Powerpoint, Excel, etc. have got so many features nowadays that it takes weeks of classes to learn the ins and outs of a single product (almost as many features as text editors). Then there’s the feature that most people aren’t so much a fan of, the price tag. Having said that, do you wish to know some great free Microsoft Office alternatives to make your tasks easier?
