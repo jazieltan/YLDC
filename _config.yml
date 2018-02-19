@@ -1,7 +1,16 @@
-name: Hank Quinlan, Horrible Cop
+author: Jaziel Tan
+title: YLDC Sutdent Portal
+description: Youth Life development Centre Student Portal for Computer Studies. YLDC.
+url: https://jazieltan.github.io/yldc/
+logo: /ass
+facebook:
+  publisher: https://www.facebook.com/groups/316580378840443/
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url:  https://jazieltan.github.io
-baseurl: /yldc/
+baseurl: /yldc
 sass:
     style: compressed
+
+plugins:
+  - jekyll-seo-tag
